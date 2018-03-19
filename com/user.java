@@ -19,6 +19,6 @@ class perdon{
     }
 
     public void setEat(String eat) {
-        this.eat = eat;
+       System.out.print(eat);
     }
 }
