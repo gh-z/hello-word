@@ -5,28 +5,3 @@ public class user {
       System.out.print("之后");
     }
 }
-class perdon{
-    String eat;
-    void perdon{
-        super();
-    }
-    void perdon(String eat){
-        this.eat=eat;
-    }
-
-    public String getEat() {
-        return eat;
-    }
-
-    public void setEat(String eat) {
-       System.out.print(eat);
-    }
-
-    public void getPerdon() {
-        return perdon;
-    }
-
-    public void setPerdon(void perdon) {
-        this.perdon = perdon;
-    }
-}
