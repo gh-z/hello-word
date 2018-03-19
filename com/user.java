@@ -12,5 +12,11 @@ public class user {
         System.out.print("之后");
     }
 
+    public void trade1(){
+
+    }
+    public void trade2(){
+
+    }
 
 }
