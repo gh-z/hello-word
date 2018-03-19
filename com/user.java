@@ -4,6 +4,6 @@ public class user{
   }
 
   public void tradeDelete() throws Exception {
-    System.out.print("删除");
+    System.out.print("不删除");
   }
 }
