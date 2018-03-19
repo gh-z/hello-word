@@ -6,10 +6,7 @@ public class user{
   }
 
   public void tradeDelete() throws Exception {
-     System.out.print("删除");
+     System.out.print("之中");
   }
 
-  public void tradeEdit() throws Exception {
-    System.out.print("编辑");
-  }
 }
