@@ -1,3 +1,5 @@
 public class user{
-  private  int name;
+  private  int 1;
+  private  int 2;
+  private  int 3;
 }
