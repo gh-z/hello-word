@@ -12,5 +12,6 @@ public class user{
   }
 
   public void tradeEdit() throws Exception {
+
   }
 }
