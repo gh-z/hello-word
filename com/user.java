@@ -21,4 +21,12 @@ class perdon{
     public void setEat(String eat) {
         this.eat = eat;
     }
+
+    public void getPerdon() {
+        return perdon;
+    }
+
+    public void setPerdon(void perdon) {
+        this.perdon = perdon;
+    }
 }
