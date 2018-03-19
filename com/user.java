@@ -12,10 +12,7 @@ public class user{
         System.out.print("之后");
     }
 
-<<<<<<< HEAD
   public void tradeEdit() throws Exception {
 
   }
-=======
->>>>>>> 9e97d8b7a5ad6d5d780778b8eb32782d79ad90cc
 }
