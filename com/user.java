@@ -11,7 +11,7 @@ public class user {
         System.out.print("之后");
     }
     public void a{
-
+        System.out.print("之前");
     }
 
 }
