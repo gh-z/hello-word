@@ -12,4 +12,8 @@ public class user {
         System.out.print("之后");
     }
 
+    public void search(){
+
+    }
+
 }
