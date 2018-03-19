@@ -5,13 +5,5 @@ public class user {
       System.out.print("之后");
     }
 
-    public void tradeDownloadServer() throws Exception {
-        System.out.print("之前");
-        byte[] bytes = new byte[1024];
-        System.out.print("之后");
-    }
-    public void a{
-        System.out.print("之前");
-    }
 
 }
