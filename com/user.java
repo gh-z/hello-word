@@ -7,4 +7,5 @@ public class user {
 }
 class perdon{
     String eat;
+    String name;
 }
