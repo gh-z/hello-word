@@ -10,5 +10,8 @@ class perdon{
     void perdon{
 
     }
+    void perdon(String eat){
+        this.eat=eat;
+    }
 
 }
