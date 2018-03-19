@@ -14,4 +14,7 @@ class perdon{
         this.eat=eat;
     }
 
+    public void setEat(String eat) {
+        this.eat = eat;
+    }
 }
