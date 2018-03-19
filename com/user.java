@@ -6,5 +6,5 @@ public class user {
     }
 }
 class furit{
-
+    String name;
 }
